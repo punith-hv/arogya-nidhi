@@ -1,0 +1,64 @@
+{
+  "hospitals": [
+    {"name": "Vydehi Institute of Medical Sciences", "district": "Bengaluru", "address": "82, EPIP Area, Whitefield, Bengaluru - 560066", "speciality": "Multi-Speciality"},
+    {"name": "Fortis Hospital Bannerghatta", "district": "Bengaluru", "address": "Bannerghatta Road, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Manipal Hospital Old Airport Road", "district": "Bengaluru", "address": "Old Airport Road, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Apollo Hospitals Bannerghatta", "district": "Bengaluru", "address": "Bannerghatta Road, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Narayana Health City", "district": "Bengaluru", "address": "Bommasandra, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Aster CMI Hospital", "district": "Bengaluru", "address": "Hebbal, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "KIMS Hospital VV Puram", "district": "Bengaluru", "address": "VV Puram, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Columbia Asia Hospital Yeshwanthpur", "district": "Bengaluru", "address": "Yeshwanthpur, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "M S Ramaiah Hospital", "district": "Bengaluru", "address": "Mathikere, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "BGS Gleneagles Global Hospital", "district": "Bengaluru", "address": "Kengeri, Bengaluru", "speciality": "Multi-Speciality"},
+
+    {"name": "JSS Hospital", "district": "Mysuru", "address": "MG Road, Mysuru", "speciality": "Multi-Speciality"},
+    {"name": "K R Hospital", "district": "Mysuru", "address": "Mysuru City", "speciality": "General"},
+    {"name": "Bharath Hospital & Institute of Oncology", "district": "Mysuru", "address": "Mysuru", "speciality": "Oncology"},
+
+    {"name": "Karnataka Institute of Medical Sciences (KIMS)", "district": "Hubli", "address": "Hubli, Dharwad", "speciality": "Multi-Speciality"},
+    {"name": "SDM College of Medical Sciences", "district": "Dharwad", "address": "Sattur, Dharwad", "speciality": "Multi-Speciality"},
+
+    {"name": "District Hospital Chikkaballapura", "district": "Chikkaballapura", "address": "MG Road, Chikkaballapura - 562101", "speciality": "General"},
+    {"name": "R.L. Jalappa Hospital & Research Centre", "district": "Chikkaballapura", "address": "Tamaka, Kolar Road, Chikkaballapura", "speciality": "Multi-Speciality"},
+    {"name": "Sri Sathya Sai Institute of Medical Sciences", "district": "Chikkaballapura", "address": "Chikkaballapura", "speciality": "Multi-Speciality"},
+
+    {"name": "District Hospital Tumkur", "district": "Tumkur", "address": "Tumkur", "speciality": "General"},
+    {"name": "District Hospital Mandya", "district": "Mandya", "address": "Mandya", "speciality": "General"},
+    {"name": "District Hospital Shivamogga", "district": "Shivamogga", "address": "Shivamogga", "speciality": "General"},
+    {"name": "District Hospital Davanagere", "district": "Davanagere", "address": "Davanagere", "speciality": "Multi-Speciality"},
+    {"name": "District Hospital Kalaburagi", "district": "Kalaburagi", "address": "Kalaburagi", "speciality": "General"},
+    {"name": "District Hospital Raichur", "district": "Raichur", "address": "Raichur", "speciality": "General"},
+    {"name": "District Hospital Bidar", "district": "Bidar", "address": "Bidar", "speciality": "General"},
+    {"name": "District Hospital Koppal", "district": "Koppal", "address": "Koppal", "speciality": "General"},
+    {"name": "District Hospital Gadag", "district": "Gadag", "address": "Gadag", "speciality": "General"},
+    {"name": "District Hospital Haveri", "district": "Haveri", "address": "Haveri", "speciality": "General"},
+    {"name": "District Hospital Bagalkote", "district": "Bagalkote", "address": "Bagalkote", "speciality": "General"},
+    {"name": "District Hospital Hassan", "district": "Hassan", "address": "Hassan", "speciality": "General"},
+    {"name": "District Hospital Chikkamagaluru", "district": "Chikkamagaluru", "address": "Chikkamagaluru", "speciality": "General"},
+    {"name": "District Hospital Vijayapura", "district": "Vijayapura", "address": "Vijayapura", "speciality": "General"},
+    {"name": "District Hospital Belagavi", "district": "Belagavi", "address": "Belagavi", "speciality": "General"},
+    {"name": "Belagavi Institute of Medical Sciences", "district": "Belagavi", "address": "Belagavi", "speciality": "Multi-Speciality"},
+    {"name": "KLES Dr. Prabhakar Kore Hospital", "district": "Belagavi", "address": "Belagavi", "speciality": "Multi-Speciality"},
+
+    {"name": "District Hospital Ramanagara", "district": "Ramanagara", "address": "Ramanagara", "speciality": "General"},
+    {"name": "District Hospital Chamarajanagara", "district": "Chamarajanagara", "address": "Chamarajanagara", "speciality": "General"},
+    {"name": "District Hospital Yadgir", "district": "Yadgir", "address": "Yadgir", "speciality": "General"},
+    {"name": "District Hospital Uttara Kannada", "district": "Uttara Kannada", "address": "Karwar", "speciality": "General"},
+    {"name": "District Hospital Udupi", "district": "Udupi", "address": "Udupi", "speciality": "Multi-Speciality"},
+    {"name": "District Hospital Dakshina Kannada", "district": "Dakshina Kannada", "address": "Mangaluru", "speciality": "Multi-Speciality"},
+    {"name": "District Hospital Kodagu", "district": "Kodagu", "address": "Madikeri", "speciality": "General"},
+    {"name": "District Hospital Ballari", "district": "Ballari", "address": "Ballari", "speciality": "General"},
+    {"name": "VIMS Hospital", "district": "Ballari", "address": "Ballari", "speciality": "Multi-Speciality"},
+    {"name": "District Hospital Chitradurga", "district": "Chitradurga", "address": "Chitradurga", "speciality": "General"},
+    {"name": "District Hospital Kolar", "district": "Kolar", "address": "Kolar", "speciality": "General"},
+
+    {"name": "Narayana Multi Speciality Hospital", "district": "Bengaluru", "address": "Devanhalli, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Baptist Hospital", "district": "Bengaluru", "address": "Hebbal, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "St. John's Medical College Hospital", "district": "Bengaluru", "address": "Koramangala, Bengaluru", "speciality": "Multi-Speciality"},
+    {"name": "Bowring and Lady Curzon Hospital", "district": "Bengaluru", "address": "Shivajinagar, Bengaluru", "speciality": "General"},
+    {"name": "Victoria Hospital", "district": "Bengaluru", "address": "K.R. Market, Bengaluru", "speciality": "General"},
+
+    {"name": "District Hospital Chikkaballapura - Taluk Hospital", "district": "Chikkaballapura", "address": "Bagepalli, Chikkaballapura", "speciality": "General"},
+    {"name": "District Hospital Chikkaballapura - CHC", "district": "Chikkaballapura", "address": "Sidlaghatta, Chikkaballapura", "speciality": "General"}
+  ]
+}
